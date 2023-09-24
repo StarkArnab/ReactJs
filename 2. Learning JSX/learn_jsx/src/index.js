@@ -1,17 +1,16 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+// This is in JSX
+// ReactDOM.render(<h1>Hello World!</h1>, document.getElementById("root"));
+
+// This is what Babel converts it to
+ReactDOM.render(
+  React.createElement("h1", null, "Hello World!"),
+  document.getElementById("root")
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// This is what I can do if I want to write it in pure JS
+var h1 = document.createElement("h1");
+h1.innerText = "Hello World! from JS";
+document.getElementById("root").append(h1);
