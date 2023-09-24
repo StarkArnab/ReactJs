@@ -1,3 +1,7 @@
+# Learned React Fragments and used the general syntax as well the shorthand
+
+Deployment Link - https://6510a4ac5d40e01d9c3c4aa0--silver-lily-29d7a7.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
