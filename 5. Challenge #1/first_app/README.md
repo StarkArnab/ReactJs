@@ -8,7 +8,7 @@
 
 3 . Add list of fav 5 Netflix Series in it using an order list.
 
-Deployment Link -
+Deployment Link - https://6510ac52e4fd422055e587c4--resilient-bavarois-1a1beb.netlify.app/
 
 # Getting Started with Create React App
 
