@@ -1,3 +1,11 @@
+# JSX Challenge
+
+<b>Here I will create a react app from scratch and do some operations and will try to incorporate all the learnings that I have learnt so far</b>
+
+1 . Add one h1 element
+2 . Add one p element in it with Current Date
+3 . Add one p element in it with Current Time
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
