@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  color: red;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-shadow: 0px 2px 4px lightcoral;
+  font-family: "Montserrat", sans-serif;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  border: 10px solid red;
+}
