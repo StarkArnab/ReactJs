@@ -1,6 +1,6 @@
 # Here I will learn about react components
 
-Deployment Link -
+Deployment Link - https://6516ae818469b4675fa25f73--quiet-kashata-fcae32.netlify.app/
 
 # Getting Started with Create React App
 
