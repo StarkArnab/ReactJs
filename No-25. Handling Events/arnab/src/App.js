@@ -5,6 +5,7 @@ const App = () => {
   const [color, setColor] = useState("rgb(235, 160, 204)");
   const [count, setCount] = useState(0);
   const [text, setText] = useState("click me");
+
   const BgChange = () => {
     setCount(count + 1);
     if (count === 0) {
