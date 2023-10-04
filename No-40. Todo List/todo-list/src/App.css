@@ -26,13 +26,13 @@ h1 {
 
 input {
   text-align: center;
-  color: white;
+  color: #5c1a1b;
   height: 30px;
   top: 10px;
   border: none;
   background: transparent;
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 1000;
   width: 60%;
   border-bottom: 2px solid #af7595;
   outline: none;
@@ -40,7 +40,8 @@ input {
 }
 
 input::placeholder {
-  color: white;
+  color: #5c1a1b;
+  font-weight: 1000;
 }
 
 button {
@@ -69,13 +70,14 @@ ol li {
   padding-left: 0px;
   text-align: left;
   font-size: 20px;
-  color: white;
+  color: #5c1a1b;
   font-weight: 500;
   min-height: 40px;
   display: flex;
   align-items: center;
   text-transform: capitalize;
   background-color: #aed4e6;
+  font-weight: 1000;
 }
 
 @media (max-width: 768px) {
