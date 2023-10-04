@@ -34,6 +34,8 @@ h1 {
 }
 
 button {
+  font-size: large;
+  font-weight: 1000;
   background-color: #820b8a;
   color: white;
   height: 40px;
